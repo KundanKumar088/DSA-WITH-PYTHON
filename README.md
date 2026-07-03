@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting

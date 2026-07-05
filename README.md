@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

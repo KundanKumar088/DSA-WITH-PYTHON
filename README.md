@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

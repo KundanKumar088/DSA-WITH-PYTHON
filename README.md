@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Queue
 |  |
 | ------- |

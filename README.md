@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0724-find-pivot-index) |
 ## Queue
 |  |
 | ------- |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0073-set-matrix-zeroes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0151-reverse-words-in-a-string) |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0152-maximum-product-subarray) |
@@ -183,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Indexed Tree
 |  |
 | ------- |

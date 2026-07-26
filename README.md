@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->

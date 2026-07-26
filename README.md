@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0986-interval-list-intersections) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->

@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1189-maximum-number-of-balloons) |
 ## Math
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0424-longest-repeating-character-replacement) |

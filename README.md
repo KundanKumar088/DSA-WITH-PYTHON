@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0185-department-top-three-salaries) |
 ## Greedy
 |  |
 | ------- |

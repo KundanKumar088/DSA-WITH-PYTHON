@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0053-maximum-subarray) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |

@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0610-triangle-judgement) |
 | [1075-project-employees-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1075-project-employees-i) |
 | [1158-market-analysis-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1158-market-analysis-i) |
+| [1179-reformat-department-table](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1179-reformat-department-table) |
 | [1517-find-users-with-valid-e-mails](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1517-find-users-with-valid-e-mails) |
 ## Greedy
 |  |

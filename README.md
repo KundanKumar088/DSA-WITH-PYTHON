@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0875-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |

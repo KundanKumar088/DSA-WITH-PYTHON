@@ -4,15 +4,15 @@ class Solution:
         right = max(piles)
 
         while left < right:
-            k = (left + right) // 2
+            guess = (left + right) // 2
 
             hours = 0
             for pile in piles:
-                hours += (pile + k - 1) // k
+                hours += (pile + guess - 1) // guess
 
             if hours <= h:
-                right = k
+                right = guess
             else:
-                left = k + 1
+                left = guess + 1
 
         return left               

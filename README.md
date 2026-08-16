@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1075-project-employees-i) |
 | [1158-market-analysis-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1158-market-analysis-i) |
 | [1179-reformat-department-table](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1211-queries-quality-and-percentage) |
 | [1517-find-users-with-valid-e-mails](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1517-find-users-with-valid-e-mails) |
 ## Greedy
 |  |

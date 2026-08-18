@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Backtracking
 |  |
 | ------- |

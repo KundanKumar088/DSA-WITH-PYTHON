@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0409-longest-palindrome) |
@@ -112,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1189-maximum-number-of-balloons) |
@@ -213,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -325,4 +331,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

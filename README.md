@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0724-find-pivot-index) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0904-fruit-into-baskets) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
+| [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0875-koko-eating-bananas) |
@@ -224,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue

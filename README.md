@@ -377,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0973-k-closest-points-to-origin) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

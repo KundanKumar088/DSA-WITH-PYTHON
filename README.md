@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0844-backspace-string-compare) |
@@ -434,9 +436,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

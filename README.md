@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3024-type-of-triangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0410-split-array-largest-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Quickselect
 |  |
 | ------- |

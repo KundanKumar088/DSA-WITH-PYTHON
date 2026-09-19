@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0986-interval-list-intersections) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0410-split-array-largest-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quickselect
 |  |
 | ------- |

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1929-concatenation-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3024-type-of-triangle) |
 | [3524-find-x-value-of-array-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3524-find-x-value-of-array-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
 | ------- |

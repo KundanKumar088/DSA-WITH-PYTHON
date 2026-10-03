@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0645-set-mismatch) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
@@ -419,11 +423,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0729-my-calendar-i) |
@@ -438,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0729-my-calendar-i) |
@@ -470,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sweep Line
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0986-interval-list-intersections](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0986-interval-list-intersections) |
 ## Simulation
 |  |

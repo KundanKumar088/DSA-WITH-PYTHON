@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0152-maximum-product-subarray) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0085-maximal-rectangle) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0152-maximum-product-subarray) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0739-daily-temperatures) |
 ## Binary Indexed Tree
 |  |

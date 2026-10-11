@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3024-type-of-triangle) |
 | [3524-find-x-value-of-array-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3524-find-x-value-of-array-i) |
@@ -749,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->

@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |

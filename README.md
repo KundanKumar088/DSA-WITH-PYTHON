@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0142-linked-list-cycle-ii) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0653-two-sum-iv-input-is-a-bst) |

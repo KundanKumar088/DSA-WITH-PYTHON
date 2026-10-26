@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0739-daily-temperatures) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0732-my-calendar-iii) |

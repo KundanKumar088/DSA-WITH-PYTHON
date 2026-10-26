@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0073-set-matrix-zeroes) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0085-maximal-rectangle) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1929-concatenation-of-array) |

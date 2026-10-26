@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0739-daily-temperatures) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0173-binary-search-tree-iterator) |
 | [0729-my-calendar-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0732-my-calendar-iii) |
@@ -831,4 +836,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->

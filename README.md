@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0457-circular-array-loop) |
 | [0481-magical-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0567-permutation-in-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0692-top-k-frequent-words) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0455-assign-cookies) |
 ## Memoization
 |  |
 | ------- |

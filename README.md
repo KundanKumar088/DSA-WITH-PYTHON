@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0836-rectangle-overlap) |

@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0457-circular-array-loop](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0692-top-k-frequent-words) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0732-my-calendar-iii) |
@@ -860,4 +864,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0173-binary-search-tree-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

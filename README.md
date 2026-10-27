@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0457-circular-array-loop) |
+| [0481-magical-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0692-top-k-frequent-words) |

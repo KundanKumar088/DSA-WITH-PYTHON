@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0301-remove-invalid-parentheses) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0152-maximum-product-subarray) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0102-binary-tree-level-order-traversal) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0102-binary-tree-level-order-traversal) |
@@ -846,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0230-kth-smallest-element-in-a-bst) |

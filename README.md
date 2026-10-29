@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -545,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -556,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0732-my-calendar-iii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -763,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |

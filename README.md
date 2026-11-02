@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0540-single-element-in-a-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0692-top-k-frequent-words) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0202-happy-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0973-k-closest-points-to-origin) |

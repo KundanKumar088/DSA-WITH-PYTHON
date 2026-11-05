@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3024-type-of-triangle) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3024-type-of-triangle) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
@@ -533,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3882-minimum-xor-path-in-a-grid) |

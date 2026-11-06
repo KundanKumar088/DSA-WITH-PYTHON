@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0645-set-mismatch) |

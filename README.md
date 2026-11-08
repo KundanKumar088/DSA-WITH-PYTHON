@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1470-shuffle-the-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1267-count-servers-that-communicate) |
 ## Math
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/2965-find-missing-and-repeated-values) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
@@ -881,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
@@ -955,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KundanKumar088/DSA-WITH-PYTHON/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
